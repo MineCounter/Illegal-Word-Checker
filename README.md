@@ -65,5 +65,5 @@ This project is licensed under the [MIT License](LICENSE).
 9. Authors
 
 Alok More
-Francois Nel
-Luca Bienz
+\n Francois Nel
+\n Luca Bienz
