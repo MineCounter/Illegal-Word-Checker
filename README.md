@@ -2,6 +2,8 @@
 
 This is a command-line tool written in Python that searches for specific words and regex patterns in one or more files. It utilizes a trie data structure for efficient word matching and regular expressions for pattern matching.
 
+It is made and used for the Computer Science 114 Porject 2023 at Stellenbosch University 
+
 ## Usage
 
 1. Clone the repository:
