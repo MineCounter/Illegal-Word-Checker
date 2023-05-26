@@ -61,3 +61,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 8. License
 
 This project is licensed under the [MIT License](LICENSE).
+
+9. Authors
+
+Alok More
+Francois Nel
+Luca Bienz
