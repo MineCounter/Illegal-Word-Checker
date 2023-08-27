@@ -26,7 +26,7 @@ The tool will search for the specified words and regex patterns in the provided 
 
 You can modify the `search_words` list and `regex_patterns` list in the file to suit your specific search requirements. Add or remove words/patterns as needed.
 
-6. File Search Results:
+5. File Search Results:
 
 The tool will display the search results in the console. Matched lines will be printed along with the line number and the matched words.
 
