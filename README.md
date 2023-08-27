@@ -2,7 +2,10 @@
 
 This is a command-line tool written in Python that searches for specific words and regex patterns in one or more files. It utilizes a trie data structure for efficient word matching and regular expressions for pattern matching.
 
-It is made and used for the Computer Science 114 Project (2023) at Stellenbosch University 
+It is made and used for the Computer Science 114 Project (2023) at Stellenbosch University, to make the markers lives easier.
+
+There is a Shell Script version as well as a Python Version. The python file is faster than the shell script, and is less likely to pick up wrong mistakes.
+Some of the problems picked up were provided in the original project skeleton, hence the error is printed to manually check if it's problematic or not.
 
 ## Usage
 
@@ -45,15 +48,15 @@ Matched words: ['example']
 ----------------------------------( ### Script execution completed ### )----------------------------------
 ```
 
-7. Contributing
+6. Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
 
-8. License
+7. License
 
 This project is licensed under the [MIT License](LICENSE).
 
-9. Authors
+8. Authors
 
 Alok More
 
